@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fayllar_bilanIshlasj/1.0.0": {
+        "runtime": {
+          "Fayllar_bilanIshlasj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fayllar_bilanIshlasj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

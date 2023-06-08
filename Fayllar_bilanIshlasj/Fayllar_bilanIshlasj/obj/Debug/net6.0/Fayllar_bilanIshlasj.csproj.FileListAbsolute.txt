@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\bin\Debug\net6.0\Fayllar_bilanIshlasj.exe
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\bin\Debug\net6.0\Fayllar_bilanIshlasj.deps.json
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\bin\Debug\net6.0\Fayllar_bilanIshlasj.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\bin\Debug\net6.0\Fayllar_bilanIshlasj.dll
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\bin\Debug\net6.0\Fayllar_bilanIshlasj.pdb
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.dll
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\refint\Fayllar_bilanIshlasj.dll
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.pdb
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\Fayllar_bilanIshlasj.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\GitHub\Fayllar_bilanIshlash\Fayllar_bilanIshlasj\Fayllar_bilanIshlasj\obj\Debug\net6.0\ref\Fayllar_bilanIshlasj.dll
